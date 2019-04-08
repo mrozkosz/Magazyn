@@ -1,3 +1,3 @@
-http://techjuice.pl/magazyn/
-login: admin
+http://techjuice.pl/magazyn/<br>
+login: admin<br>
 hasło: admin
